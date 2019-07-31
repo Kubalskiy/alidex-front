@@ -3,12 +3,12 @@ import PropTypes from "prop-types";
 import {withStyles} from "@material-ui/core/styles";
 import Typography from '@material-ui/core/Typography';
 import Paper from "@material-ui/core/Paper";
-import Alidex from "./contracts/Alidex.json";
-import getWeb3 from "./helpers/getWeb3";
-import Index from './pages';
-import {Actions} from './vitrina/model'
+import Alidex from "/contracts/Alidex.json";
+import getWeb3 from "/helpers/getWeb3";
+import Index from '/pages';
+import {Actions} from '/vitrina/model'
 import {connect} from 'react-redux';
-import {Translator} from './helpers/translator';
+import {Translator} from '/helpers/translator';
 import ipfsClient from "ipfs-http-client";
 
 import "./App.css";

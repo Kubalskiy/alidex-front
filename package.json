@@ -13,11 +13,11 @@
     "react-dom": "^16.4.2",
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.1",
     "redux-responsive": "^4.3.8",
-    "truffle-hdwallet-provider": "^1.0.2",
-    "web3": "1.0.0-beta.35"
+    "truffle-hdwallet-provider": "^1.0.15",
+    "web3": "1.10.4"
   },
   "scripts": {
     "start": "react-scripts start",
